@@ -1,5 +1,5 @@
 ---
-title: About Sookstory
+title: Sookstory
 feature_text: |
   ## Sookstory
   만 2년 반, 자바 웹 개발자, 어제보다 더 나은 오늘을 만드는 개발자.
