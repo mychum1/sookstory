@@ -66,7 +66,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "배운 것들을 정리하는 블로그" # The post list page content
+    description: "Learning, Acheiving" # The post list page content
     feature_text: |
       Sookstory
     feature_image: "https://picsum.photos/2560/600?image=866"
@@ -84,7 +84,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Sookstory" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "만 2년 반. 자바 웹 개발자. 모르는 것을 알아가는 과정" # Site description and default description, also used in jekyll-seo-tag
+description: "3 years, Java Web developer" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: "/sookstory"
 repo: "https://github.com/daviddarnes/alembic"
