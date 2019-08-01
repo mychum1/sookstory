@@ -85,7 +85,7 @@ lang: en-GB # Set the site language
 title: "Sookstory" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "3 years, Java Web developer" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://mychum1.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: "/sookstory"
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
