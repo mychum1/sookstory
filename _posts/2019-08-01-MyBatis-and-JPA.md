@@ -1,7 +1,7 @@
 ---
 title: MyBatis 와 JPA 혼합하기 
 categories:
-- sookstory
+- java
 excerpt: |
   회사에서 기존에 운영하던 서비스를 개선하는 프로젝트가 생겼다. 옛날 사양이기도 한지라 새로운 기술도 넣어가면서 정돈하는 것이 목표였다. 기존에 사용하던 persistence 레이어는 MyBatis에서 JPA로 변경하기로 한 것! 이전에 참여했던 프로젝트에서 JPA를 적용해봤던지라 그걸 적당히 응용하면 되겠지..했는데 큰 오산이었다. 이미 디비가 RDB여서 JPA 의 철학과 목적에 맞게 구현이 어려워진 것이다.
 feature_text: |
