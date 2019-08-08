@@ -1,7 +1,7 @@
 ---
 title: HashCode() 와 equals()
 categories:
-- sookstory
+- java
 excerpt: |
   예전에 JPA를 사용할 때 따라하던 예제들 중 저 hashcode와 equals 를 override한 부분이 있었다. equals는 자바를 처음 접했을 때 부터 비교를 위해 자주 사용하던 메소드이지만 hashcode는? 주소인가?(...) hash가 앞에 붙은 것들은 이미 여러번 본 적이 있다. hashmap, hashtable 등과 같은 자료구조에서. hashcode는 뭐고, 이 두개의 차이점은 뭐고 어떻게 쓰이는걸까?
 feature_text: |
