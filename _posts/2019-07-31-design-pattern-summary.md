@@ -1,7 +1,7 @@
 ---
 title: GoF의 디자인 패턴 요약 
 categories:
-- sookstory
+- pattern
 excerpt: |
   GoF의 디자인 패턴은 크게 생성 패턴, 구조 패턴, 행위 패턴으로 구분된다.
 feature_text: |
