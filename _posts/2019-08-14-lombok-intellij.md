@@ -24,11 +24,13 @@ lombok은 플러그인이 필요하다.
 ----
 
 intellij에서는 플러그인을 설치해주면된다. file > settings > plugin > lombok 을 install 해주면된다.
-[롬복 플러그인 설치](https://github.com/mychum1/learning_ref/blob/master/com.ksko.learning-ref/imgs/lombok.png?raw=true)  
 
+[롬복 플러그인 설치](https://github.com/mychum1/learning_ref/blob/master/com.ksko.learning-ref/imgs/lombok.png?raw=true)  
+  
 
 2. 어노테이션 enable
 ----
   
 어노테이션 프로세서도 활성화를 시켜주어야한다.
-[어노테이션 프로세서 활성화 ](https://github.com/mychum1/learning_ref/blob/master/com.ksko.learning-ref/imgs/annotaion_processor.png?raw=true)  
+
+[어노테이션 프로세서 활성화 ](https://github.com/mychum1/learning_ref/blob/master/com.ksko.learning-ref/imgs/annotaion_processor.png?raw=true)    
